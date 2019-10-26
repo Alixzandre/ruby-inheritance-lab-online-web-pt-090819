@@ -1,4 +1,7 @@
 class Student < User
 
-def initialize()
+def initialize
+  
+  knowledge = []  
+  
 end
